@@ -7,4 +7,4 @@ $(document).ready(() => {
     $('#suporte').on('click', () => {
         $('#pagina').load('suporte.html');
     });
-})
+});
